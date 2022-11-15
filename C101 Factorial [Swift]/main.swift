@@ -8,7 +8,7 @@ let n = 7
 
 
 // Add your code below:
-// Creating variables
+//BEG of code Creating variables
 var factorialNumber = n
 var newNumber = 1
 
@@ -22,7 +22,7 @@ print("Terminal case, returning 1.")
 factorialNumber = 2
 // Print out the non-terminal case by 1,2,4,8
 
-// Show the final result
+// END of Code Show the final result
 if n > 1 {
     while factorialNumber <= n {
         newNumber *= factorialNumber
